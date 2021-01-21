@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DanhSachGiay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangNhap\DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonDatHang\QLDonDatHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DonDatHang\Tool_CapNhapTrangThai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonDatHang\Tool_ChonDatSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonDatHang\Tool_NhapSoLuongDatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonDatHang\Tool_ThemDonDatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonDatHang\Tool_XemChiTietDonDatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GioiTinh\QLGioiTinh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GioiTinh\Tool_SuaGioiTinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GioiTinh\Tool_ThemGioiTinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDon\QLHoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="HoaDon\Tool_ChonSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDon\Tool_NhapSoLuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDon\Tool_ThemHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDon\Tool_XemChiTiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhuyenMai\QLKhuyenMai.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="KhuyenMai\Tool_SuaKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhuyenMai\Tool_ThemKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SanPham\QLSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SanPham\Tool_SuaGiay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SanPham\Tool_ThemGiay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThongKe\QLThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ThuongHieu\QLThuongHieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ThongBao\TBThemSuaXoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThongBao\TBXoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThuongHieu\Tool_ThemThuongHieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrangChu\TrangChu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
